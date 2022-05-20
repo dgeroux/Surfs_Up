@@ -5,10 +5,10 @@ Our client is looking to start a business - Surf n' Shake, a shop that sells sur
 
 ## Results 
 ### Below is the statistical data for the temperature in June on the island of O'ahu between 2010 and 2017
-![june_temps][https://github.com/dgeroux/Surfs_Up/blob/main/june_temps.png]
+![june_temps](https://github.com/dgeroux/Surfs_Up/blob/main/june_temps.png)
 
 ### Below is the statistical data for the temperature in December on the island of O'ahu between 2010 and 2017
-![dec_tmeps][https://github.com/dgeroux/Surfs_Up/blob/main/dec_temps.png]
+![dec_tmeps](https://github.com/dgeroux/Surfs_Up/blob/main/dec_temps.png)
  
  ### Major Points
  ..*June has slightly more temperature obvservations, which means there are some missing data points for December. Luckily, the data set is large enough relative to the amount of missing data that the missing data points don't have a significant effect on the findings.
